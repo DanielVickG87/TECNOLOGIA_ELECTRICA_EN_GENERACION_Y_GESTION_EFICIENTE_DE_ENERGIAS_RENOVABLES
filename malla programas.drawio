@@ -1,0 +1,399 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.5">
+  <diagram name="Page-1" id="NdeRNoOgGqwSj2bBf8Ej">
+    <mxGraphModel dx="1477" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=light-dark(#FFFFFF,#FFFFFF);" parent="1" vertex="1">
+          <mxGeometry y="-20" width="1650" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-47" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;strokeColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="10" y="20" width="970" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-5" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;strokeColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="20" y="30" width="540" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-6" value="MATEMÁTICAS BASICA 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-7" value="TERMODINÁMICA&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="710" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-8" value="CIRCUITOS ELECTRICOS I" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-9" value="INGLÉS TÉCNICO I" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="160" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-10" target="ocTWP9GC5p4d-2BuhFd4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-10" value="INTRODUCCIÓN A LA PROGRAMACIÓN&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="30" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-11" target="ocTWP9GC5p4d-2BuhFd4-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-11" value="EDUCACIÓN AMBIENTAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="30" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-12" target="ocTWP9GC5p4d-2BuhFd4-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-12" value="MATEMÁTICAS BASICA 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-14" target="ocTWP9GC5p4d-2BuhFd4-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-14" value="ELECTRÓNICA I" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="290" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-15" target="ocTWP9GC5p4d-2BuhFd4-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-15" value="CIRCUITOS ELÉCTRICOS II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-16" target="ocTWP9GC5p4d-2BuhFd4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-16" value="FISICA BASICA I&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="30" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-17" target="ocTWP9GC5p4d-2BuhFd4-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-17" value="FISICA BASICA II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-18" value="INTRODUCCIÓN A LAS ENERGÍAS RENOVABLES&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="580" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-19" target="ocTWP9GC5p4d-2BuhFd4-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-19" value="PROTECCIONES ELÉCTRICAS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="580" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-20" target="ocTWP9GC5p4d-2BuhFd4-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;FISICA DE OSCILACIONES, ONDAS&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="290" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-21" target="ocTWP9GC5p4d-2BuhFd4-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-21" value="DIBUJO PLANOS ELÉCTRICOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="160" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-22" value="PROYECTO ENERGÍAS RENOVABLES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="420" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-23" target="ocTWP9GC5p4d-2BuhFd4-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-23" value="NORMATIVA ELÉCTRICA COLOMBIANA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="160" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-24" value="GESTIÓN DE PROYECTOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="290" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-25" value="INSTALACIÓN ELÉCTRICA INDUSTRIAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="425" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-26" value="CONSTITUCIÓN POLÍTICA Y VALORES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="30" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-27" value="SEGURIDAD ELÉCTRICA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="420" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-28" value="ELECTIVA I" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="420" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-29" value="PENSAMIENTO COMPLEJO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="30" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-30" target="ocTWP9GC5p4d-2BuhFd4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-30" value="LOGICA MATEMATICA&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="290" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-31" target="ocTWP9GC5p4d-2BuhFd4-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-31" value="INSTALACIÓN DE SISTEMAS FOTOVOLTAICOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="290" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-32" value="INSTALACIÓN DE SISTEMAS EÓLICOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="290" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-33" value="COGENERACIÓN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="290" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-34" value="ALGEBRA LINEAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="420" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-35" value="ELECTRÓNICA II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="420" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-36" value="INSTALACIÓN DE SISTEMAS TERMOSOLARES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="420" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-37" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;FÍSICA ELECTROMAGNETISMO&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="420" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-38" value="MÁQUINAS ELÉCTRICAS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="420" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-39" value="ENERGÍAS EMERGENTES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="420" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-40" value="SISTEMAS PUESTA A TIERRA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="710" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-41" value="INSTALACIONES ELÉCTRICAS ENERGÍAS&amp;nbsp; RENOVABLES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="290" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-42" value="14 CRÉDITOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="30" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-43" value="14 CRÉDITOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="160" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-44" value="16 CRÉDITOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="290" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-45" value="18 CRÉDITOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="425" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;TP en Instalación de Sistemas de Energía Renovable Y&amp;nbsp;TP en Instalación de Redes Eléctricas de Baja y Media Tensión&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="40" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;TECNOLOGÍA ELÉCTRICA EN GENERACIÓN Y GESTIÓN EFICIENTE DE ENERGÍAS RENOVABLES&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="40" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-49" target="ocTWP9GC5p4d-2BuhFd4-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-49" value="CALCULO DIFERENCIAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="580" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-50" value="ALGORITMIA Y PROGRAMACIÓN II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="580" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-51" value="CALCULO INTEGRAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="710" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-52" target="ocTWP9GC5p4d-2BuhFd4-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-52" value="ELECTRÓNICA II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="580" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-53" target="ocTWP9GC5p4d-2BuhFd4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-53" value="MECANICA DE FLUIDOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="580" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-54" value="ELECTRÓNICA DE POTENCIA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="840" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-56" value="ELECTIVA TECNOLOGICA II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="840" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-57" target="ocTWP9GC5p4d-2BuhFd4-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-57" value="ELECTRONICA DIGITAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="710" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-58" value="SISTEMAS DE GENERACION TRANSFORMACION Y TRANSMISIÓN&amp;nbsp; DE ENERGIAS RENOVABLES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="710" y="580" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-59" value="GESTION EFICIENTE DE ENERGIAS RENOVABLES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="840" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-60" value="15 CRÉDITOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="580" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-61" value="13 CRÉDITOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="710" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-62" value="11 CRÉDITOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="840" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-65" value="LECTOESCRITURA PARA MECATRONICA&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="990" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-66" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;INGENIERÍA MECATRONICA&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1055" y="30" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-67" value="DIBUJO ASISTIDO POR PC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="990" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-68" target="ocTWP9GC5p4d-2BuhFd4-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-68" value="INFORMATICA&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="990" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-69" target="ocTWP9GC5p4d-2BuhFd4-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-69" value="ESTATICA&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="990" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-70" target="ocTWP9GC5p4d-2BuhFd4-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-70" value="CIENCIAS DE LOS MATERIALES&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="990" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-71" value="ARQUITECTURA DE COMPUTADORES&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="990" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-72" target="ocTWP9GC5p4d-2BuhFd4-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-72" target="ocTWP9GC5p4d-2BuhFd4-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-72" value="ECUACIONES DIFERENCIALES&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1120" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-73" value="MECANISMOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1120" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-74" value="MECANICA DE MATERIALES&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1120" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-75" value="ESTADISTICA Y PROBABILIDAD&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1120" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-76" target="ocTWP9GC5p4d-2BuhFd4-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-76" target="ocTWP9GC5p4d-2BuhFd4-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-76" target="ocTWP9GC5p4d-2BuhFd4-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-76" value="INSTRUMENTACION Y CONTROL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1250" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-77" target="ocTWP9GC5p4d-2BuhFd4-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-77" value="MECATRONICA APLICADA I" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1250" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-78" value="SISTEMAS DINAMICOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1250" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-79" value="ADMINISTRACIÓN&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1120" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-80" value="MECATRONICA APLICADA II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1380" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-81" target="ocTWP9GC5p4d-2BuhFd4-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-81" target="ocTWP9GC5p4d-2BuhFd4-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-81" value="CONTROL SECUENCIAL-PLC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1120" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-82" value="INGLES TECNICO II" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="990" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-83" value="DESARROLLO GERENCIAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1380" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-84" value="INSTRUMENTACION ASISTIDA POR COMPUTADOR&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1380" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-85" target="ocTWP9GC5p4d-2BuhFd4-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-85" value="CONTROL DE PROCESOS ASISTIDO POR COMPUTADOR&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1380" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-86" value="SISTEMAS EMBEBIDOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1250" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-87" target="ocTWP9GC5p4d-2BuhFd4-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-87" value="TEORIA DE SEÑALES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1380" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-89" value="DERECHO COMERCIAL Y LABORAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1250" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-90" target="ocTWP9GC5p4d-2BuhFd4-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-90" value="DISEÑO MECANICO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1380" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-91" value="PROCESAMIENTO DE SEÑALES&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1510" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-92" value="SISTEMAS DE MANUFACTURA FLEXIBLES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1380" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-93" value="DISEÑO MECATRONICO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1510" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-94" value="PROYECTO EN&amp;nbsp; MECATRONICA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1510" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-95" value="19 CRÉDITOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="990" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-96" value="19 CRÉDITOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-97" value="20 CRÉDITOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-98" value="17 CRÉDITOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1380" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-99" value="14 CRÉDITOS&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-105" value="DINÁMICA&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1120" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-6" target="ocTWP9GC5p4d-2BuhFd4-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="260" as="sourcePoint" />
+            <mxPoint x="90" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-8" target="ocTWP9GC5p4d-2BuhFd4-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="200" as="sourcePoint" />
+            <mxPoint x="170" y="200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a5PQnT44xaoPH_8pJH1b-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.01;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ocTWP9GC5p4d-2BuhFd4-58" target="ocTWP9GC5p4d-2BuhFd4-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocTWP9GC5p4d-2BuhFd4-88" value="PROGRAMACION EN TIEMPO REAL&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);fontColor=light-dark(#000000,#000000);" parent="1" vertex="1">
+          <mxGeometry x="1250" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
